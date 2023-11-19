@@ -58,3 +58,4 @@ jobs:
           plugin_posts_source: dev.to
           plugin_posts_user: aldnav
           plugin_traffic: yes
+          repositories: 78
