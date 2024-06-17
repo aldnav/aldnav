@@ -485,7 +485,7 @@
                                 <div class="infos">
                                     <div class="left">
                                         <div class="date">8 Jun 2019</div>
-                                        <div class="cover" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==);"></div>
+                                        <div class="cover" style="background-image: url(data:image/jpg;base64,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);"></div>
                                     </div>
                                     <div class="right">
                                         <div class="title">Building a Python wrapper of C libgeohash using CFFI</div>
@@ -2618,7 +2618,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.933607118412063 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.018480492813126 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2897,7 +2897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jun 2024, 22:15:29 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jun 2024, 23:18:17 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
